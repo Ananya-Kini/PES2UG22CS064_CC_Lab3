@@ -1,1 +1,3 @@
-# PES2UG22CS064_CC_Lab3
+# Cloud Computing Lab 3
+
+__init__.py in /cart and /products has been optimized.
